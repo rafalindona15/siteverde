@@ -1,0 +1,44 @@
+body{
+    background-color:rgba(192, 255, 204, 0.915) 
+    ;
+    text-align: center;
+    }
+    
+    
+    .primeiraparte{
+        background-color: rgba(101, 220, 123, 0.915);
+        padding: 150px 100px;
+    }
+    
+    .tituloum{
+        font-size: 50px;
+    }
+    
+    .paragrafos{
+        display: inline-block;
+        font-size:30px;
+    }
+    
+    .fototurma{
+        width: 350px;
+        height: 250px;
+    }
+    
+    .estudantes{
+        text-align: center;
+        background-color: a cor que voce quer aqui;
+    }
+    
+    .todososestudantes{
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+    }
+    
+    .foto{
+        width: 120px;
+    }
+    
+    footer{
+    text-align: center;
+    }
+    
